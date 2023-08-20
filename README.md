@@ -1,7 +1,6 @@
 # The frontend monitoring demo
   Build the frontend monitoring with NextJs and Sentry
 
-
 NextJs:
   Next13 and app route
 
